@@ -1,0 +1,1 @@
+This is my learning project from the course "REST API Automation With REST Assured - A Complete Guide"
